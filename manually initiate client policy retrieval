@@ -1,3 +1,5 @@
+#this is a .vbs file
+
 on error resume next
 
 dim oCPAppletMgr 'Control Applet manager object.
