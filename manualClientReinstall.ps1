@@ -4,7 +4,7 @@
 	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2018 v5.5.150
 	 Created on:   	4/6/2018 4:09 PM
 	 Created by:   	Thaddeus Pearson
-	 Organization: 	City of Missoula
+	 Organization: 
 	 Filename:     	Manual SCCM client reinstall
 	===========================================================================
 	.DESCRIPTION
